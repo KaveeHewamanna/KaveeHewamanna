@@ -1,14 +1,12 @@
 ![WhatsApp Image 2023-12-10 at 06 45 04_5b41dc3d](https://github.com/KaveeHewamanna/KaveeHewamanna/assets/151899160/6aa58a1d-139a-481a-b24d-db5b4075a1ac)
 <h1 align="center">Hi 👋, I'm Kaveesha Hewamanna</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaveehewamanna&label=Profile%20views&color=0e75b6&style=flat" alt="kaveehewamanna" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaveehewamanna" alt="kaveehewamanna" /></a> </p>
-
 - 📫 How to reach me **hewamannakavee@gmail.com**
-
 - ⚡ Fun fact **I think I am funny**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +19,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaveehewamanna&show_icons=true&locale=en&layout=compact" alt="kaveehewamanna" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaveehewamanna&show_icons=true&locale=en" alt="kaveehewamanna" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaveehewamanna" alt="kaveehewamanna" /></a> </p>
+
+
